@@ -94,7 +94,7 @@
         "description": "",
         "show_description": true,
         "description_style": "uppercase",
-        "collection": "edition-limitee",
+        "collection": "frontpage",
         "products_to_show": 5,
         "columns_desktop": 6,
         "full_width": false,
