@@ -17,7 +17,7 @@
         "footer-1": {
           "type": "link_list",
           "settings": {
-            "heading": "⭐⭐👉 <em><strong>Home</strong></em> 👈⭐⭐",
+            "heading": "⭐⭐👉 <a href=\"/collections/edition-limitee-1\" target=\"_blank\" title=\"Édition Spéciale limitée! %OFF\"><em><strong>Home</strong></em></a> 👈⭐⭐",
             "menu": "footer"
           }
         },
