@@ -10,8 +10,8 @@
 {
   "current": {
     "logo_width": 90,
-    "type_header_font": "assistant_n4",
-    "heading_scale": 100,
+    "type_header_font": "pacifico_n4",
+    "heading_scale": 110,
     "type_body_font": "assistant_n4",
     "body_scale": 100,
     "page_width": 1200,
@@ -19,6 +19,7 @@
     "spacing_grid_horizontal": 8,
     "spacing_grid_vertical": 8,
     "animations_reveal_on_scroll": true,
+    "animations_hover_elements": "3d-lift",
     "buttons_border_thickness": 1,
     "buttons_border_opacity": 100,
     "buttons_radius": 0,
@@ -30,7 +31,7 @@
     "variant_pills_border_opacity": 55,
     "variant_pills_radius": 40,
     "variant_pills_shadow_opacity": 0,
-    "variant_pills_shadow_horizontal_offset": 0,
+    "variant_pills_shadow_horizontal_offset": 12,
     "variant_pills_shadow_vertical_offset": 4,
     "variant_pills_shadow_blur": 5,
     "inputs_border_thickness": 1,
@@ -115,11 +116,11 @@
     "social_vimeo_link": "",
     "predictive_search_enabled": true,
     "predictive_search_show_vendor": false,
-    "predictive_search_show_price": false,
+    "predictive_search_show_price": true,
     "currency_code_enabled": true,
-    "cart_type": "notification",
+    "cart_type": "drawer",
     "show_vendor": false,
-    "show_cart_note": false,
+    "show_cart_note": true,
     "cart_drawer_collection": "",
     "sections": {
       "main-password-header": {
