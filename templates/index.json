@@ -44,16 +44,17 @@
         "button"
       ],
       "settings": {
+        "image": "shopify://shop_images/2020-11-0512-09-41_B_Radius8_Smoothing4_844db310-5ea7-4146-a45d-b5c8148de28c.jpg",
         "image_overlay_opacity": 40,
         "image_height": "large",
         "desktop_content_position": "bottom-center",
         "show_text_box": false,
         "desktop_content_alignment": "center",
-        "color_scheme": "scheme-3",
-        "image_behavior": "none",
+        "color_scheme": "scheme-5",
+        "image_behavior": "ambient",
         "mobile_content_alignment": "center",
-        "stack_images_on_mobile": false,
-        "show_text_below": false
+        "stack_images_on_mobile": true,
+        "show_text_below": true
       }
     },
     "rich_text": {
