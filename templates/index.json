@@ -58,24 +58,24 @@
             "collection": "edition-limitee-1"
           }
         },
+        "collection-1": {
+          "type": "collection",
+          "settings": {
+            "collection": "want-so-see-more-products"
+          }
+        },
         "product": {
           "type": "product",
           "settings": {
             "product": "copy-of-colt-12-mm-925-silver-cuban-92100811-828024729",
             "second_image": true
           }
-        },
-        "collection-1": {
-          "type": "collection",
-          "settings": {
-            "collection": "want-so-see-more-products"
-          }
         }
       },
       "block_order": [
         "collection-0",
-        "product",
-        "collection-1"
+        "collection-1",
+        "product"
       ],
       "settings": {
         "heading": "",
