@@ -52,9 +52,9 @@
     "featured_collection": {
       "type": "featured-collection",
       "settings": {
-        "title": "Featured products",
+        "title": "Deluxury Shop & Go",
         "heading_size": "h2",
-        "description": "",
+        "description": "<p>You love it & you feel like you want it !? Just do it & than one click it's already send it.</p>",
         "show_description": true,
         "description_style": "uppercase",
         "collection": "frontpage",
