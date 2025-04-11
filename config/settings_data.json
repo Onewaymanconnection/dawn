@@ -152,7 +152,7 @@
       "scheme-2": {
         "settings": {
           "background": "#f3f3f3",
-          "background_gradient": "",
+          "background_gradient": "linear-gradient(343deg, rgba(21, 15, 165, 0.87), rgba(221, 39, 57, 1) 100%)",
           "text": "#121212",
           "button": "#121212",
           "button_label": "#f3f3f3",
@@ -195,8 +195,8 @@
       },
       "scheme-bcd6c9b4-e404-42ae-8d2a-75a6fcab0d56": {
         "settings": {
-          "background": "#1f053f",
-          "background_gradient": "linear-gradient(136deg, rgba(10, 234, 237, 1) 11%, rgba(250, 13, 253, 1) 84%)",
+          "background": "#f9fffb",
+          "background_gradient": "linear-gradient(136deg, rgba(0, 0, 0, 1) 11%, rgba(250, 13, 253, 1) 84%)",
           "text": "#121212",
           "button": "#121212",
           "button_label": "#ffffff",
