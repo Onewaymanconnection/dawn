@@ -49,34 +49,6 @@
         "show_text_below": true
       }
     },
-    "featured_collection": {
-      "type": "featured-collection",
-      "settings": {
-        "title": "Deluxury Shop & Go",
-        "heading_size": "h2",
-        "description": "<p>You love it & you feel like you want it !? Just do it & than one click it's already send it.</p>",
-        "show_description": true,
-        "description_style": "uppercase",
-        "collection": "frontpage",
-        "products_to_show": 20,
-        "columns_desktop": 6,
-        "full_width": false,
-        "show_view_all": true,
-        "view_all_style": "link",
-        "enable_desktop_slider": true,
-        "color_scheme": "scheme-1",
-        "image_ratio": "portrait",
-        "image_shape": "round",
-        "show_secondary_image": true,
-        "show_vendor": false,
-        "show_rating": true,
-        "quick_add": "standard",
-        "columns_mobile": "1",
-        "swipe_on_mobile": true,
-        "padding_top": 100,
-        "padding_bottom": 36
-      }
-    },
     "collage": {
       "type": "collage",
       "blocks": {
@@ -152,7 +124,6 @@
   },
   "order": [
     "image_banner",
-    "featured_collection",
     "collage",
     "video",
     "multicolumn"
