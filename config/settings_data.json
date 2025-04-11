@@ -196,8 +196,8 @@
       "scheme-bcd6c9b4-e404-42ae-8d2a-75a6fcab0d56": {
         "settings": {
           "background": "#f9fffb",
-          "background_gradient": "linear-gradient(136deg, rgba(0, 0, 0, 1) 30%, rgba(141, 10, 59, 1) 72%)",
-          "text": "#121010",
+          "background_gradient": "linear-gradient(11deg, rgba(0, 0, 0, 1) 3%, rgba(141, 10, 59, 1) 72%, rgba(0, 0, 0, 1) 82.094%, rgba(0, 0, 0, 1) 91.46%)",
+          "text": "#ffffff",
           "button": "#4533a4",
           "button_label": "#ffffff",
           "secondary_button_label": "#121212",
