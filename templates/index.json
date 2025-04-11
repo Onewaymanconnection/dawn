@@ -88,6 +88,46 @@
         "padding_bottom": 36
       }
     },
+    "image_banner_ngLxRa": {
+      "type": "image-banner",
+      "blocks": {
+        "heading_8B8wjP": {
+          "type": "heading",
+          "settings": {
+            "heading": "Watch yours news offer and start saving money !!! Don't be Late <em><strong>Subscribe</strong></em> <em><strong>NOW</strong></em> to never miss a <em><strong>luckyday 25%OFF or more !!!</strong></em>",
+            "heading_size": "h2"
+          }
+        },
+        "buttons_QyUHf7": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Shop all",
+            "button_link_1": "shopify://collections/all",
+            "button_style_secondary_1": true,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_8B8wjP",
+        "buttons_QyUHf7"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/2020-11-0512-09-41_B_Radius8_Smoothing4_844db310-5ea7-4146-a45d-b5c8148de28c.jpg",
+        "image_overlay_opacity": 40,
+        "image_height": "large",
+        "desktop_content_position": "bottom-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "scheme-5",
+        "image_behavior": "ambient",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
     "multicolumn": {
       "type": "multicolumn",
       "settings": {
@@ -106,33 +146,12 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
-    },
-    "page_bRdqdi": {
-      "type": "page",
-      "settings": {
-        "page": "",
-        "heading_size": "h1",
-        "color_scheme": "",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "page_thWU6h": {
-      "type": "page",
-      "settings": {
-        "page": "",
-        "heading_size": "h1",
-        "color_scheme": "",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
     }
   },
   "order": [
     "image_banner",
     "collage",
-    "multicolumn",
-    "page_bRdqdi",
-    "page_thWU6h"
+    "image_banner_ngLxRa",
+    "multicolumn"
   ]
 }
