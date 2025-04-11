@@ -168,7 +168,7 @@
           "button": "#ff5151",
           "button_label": "#ffffff",
           "secondary_button_label": "#121212",
-          "shadow": "#272762"
+          "shadow": "#000000"
         }
       },
       "scheme-4": {
@@ -197,9 +197,9 @@
         "settings": {
           "background": "#f9fffb",
           "background_gradient": "linear-gradient(136deg, rgba(0, 0, 0, 1) 30%, rgba(141, 10, 59, 1) 72%)",
-          "text": "#f5ffff",
+          "text": "#121010",
           "button": "#4533a4",
-          "button_label": "#ffffff",
+          "button_label": "#6b6bdc",
           "secondary_button_label": "#121212",
           "shadow": "#0aeaed"
         }
