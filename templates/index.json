@@ -37,7 +37,7 @@
       ],
       "settings": {
         "image": "shopify://shop_images/2020-11-0512-09-41_B_Radius8_Smoothing4_844db310-5ea7-4146-a45d-b5c8148de28c.jpg",
-        "image_overlay_opacity": 40,
+        "image_overlay_opacity": 20,
         "image_height": "large",
         "desktop_content_position": "bottom-center",
         "show_text_box": false,
@@ -150,17 +150,6 @@
     "collage_FxDRRb": {
       "type": "collage",
       "blocks": {
-        "image_tdFWgA": {
-          "type": "image",
-          "settings": {}
-        },
-        "product_aw384b": {
-          "type": "product",
-          "settings": {
-            "product": "",
-            "second_image": false
-          }
-        },
         "collection_KCX94R": {
           "type": "collection",
           "settings": {
@@ -169,8 +158,6 @@
         }
       },
       "block_order": [
-        "image_tdFWgA",
-        "product_aw384b",
         "collection_KCX94R"
       ],
       "settings": {
