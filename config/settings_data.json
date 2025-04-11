@@ -142,7 +142,7 @@
         "settings": {
           "background": "#1f053f",
           "background_gradient": "radial-gradient(rgba(255, 255, 255, 0) 11%, rgba(15, 6, 15, 1) 100%)",
-          "text": "#121212",
+          "text": "#ffffff",
           "button": "#121212",
           "button_label": "#ffffff",
           "secondary_button_label": "#121212",
@@ -188,7 +188,7 @@
           "background_gradient": "",
           "text": "#ffffff",
           "button": "#350c65",
-          "button_label": "#1f053f",
+          "button_label": "#ffffff",
           "secondary_button_label": "#ffffff",
           "shadow": "#121212"
         }
